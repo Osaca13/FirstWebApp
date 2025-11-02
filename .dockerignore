@@ -1,0 +1,15 @@
+# Ignore build outputs and local tool folders
+bin/
+obj/
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.ide
+node_modules/
+.vscode/
+*.log
+*.pdb
+*.tsbuildinfo
