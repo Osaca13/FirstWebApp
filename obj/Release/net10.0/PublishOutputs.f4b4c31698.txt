@@ -1,7 +1,0 @@
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\FirstWebApp.exe
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\appsettings.Development.json
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\appsettings.json
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\FirstWebApp.dll
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\FirstWebApp.deps.json
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\FirstWebApp.runtimeconfig.json
-C:\Users\odlys\source\repos\FirstWebApp\bin\Release\net10.0\publish\FirstWebApp.pdb
