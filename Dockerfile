@@ -10,7 +10,7 @@ RUN dotnet restore "FirstWebApp.csproj"
 
 # Copy everything else and publish
 COPY . .
-RUN dotnet publish "FirstWebApp.csproj" -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "FirstWebApp.csproj" -c Release -r win-x64 -o /app/publish /p:UseAppHost=false
 
 # Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS runtime
